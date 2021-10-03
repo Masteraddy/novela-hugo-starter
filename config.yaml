@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://novela.netlify.app"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Novela"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
